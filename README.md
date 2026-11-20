@@ -32,20 +32,6 @@ Ddodatno:
 | Toast in Stringi | sporočila ob dodajanju, izbiri, odstranitvi; vsa besedila v `strings.xml` |
 | Notifications | kanal obvestil, dovoljenje `POST_NOTIFICATIONS` (Android 13+), `NotificationCompat` |
 
-## Zaslonske slike
-
-**Glavni zaslon z izbiro in košarico**
-
-![Glavni zaslon](glavni_zaslon.png)
-
-**Pregled naročila**
-
-![Pregled naročila](pregled_narocila.png)
-
-**Obvestilo**
-
-![Obvestilo](obvestilo.png)
-
 ## Struktura projekta
 
 | Datoteka | Opis |
