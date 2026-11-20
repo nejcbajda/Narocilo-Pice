@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Naročilo pice</string>
+
+    <string name="title_main">Naročilo pice</string>
+    <string name="label_pizza">Vrsta pice</string>
+    <string name="label_size">Velikost</string>
+    <string name="label_toppings">Dodatki</string>
+    <string name="label_cart">Košarica</string>
+
+    <string name="size_small">Mala</string>
+    <string name="size_medium">Srednja</string>
+    <string name="size_large">Velika</string>
+
+    <string name="topping_cheese">Sir</string>
+    <string name="topping_mushrooms">Gobe</string>
+    <string name="topping_olives">Olive</string>
+
+    <string name="add_to_cart">Dodaj v košarico</string>
+    <string name="go_to_order">Pregled naročila</string>
+
+    <string name="added_toast">Dodano: %1$s</string>
+    <string name="selected_toast">Izbrano: %1$s</string>
+    <string name="removed_toast">Odstranjeno: %1$s</string>
+    <string name="cart_empty">Košarica je prazna</string>
+
+    <string name="order_title">Pregled naročila</string>
+    <string name="send_order">Pošlji naročilo</string>
+    <string name="back">Nazaj</string>
+    <string name="order_sent">Naročilo je poslano</string>
+
+    <string name="notif_title">Naročilo sprejeto</string>
+    <string name="notif_text">Število pic v naročilu: %1$d</string>
+    <string name="notif_denied">Obvestila niso dovoljena</string>
+    <string name="channel_name">Naročila</string>
+    <string name="channel_description">Obvestila o naročilih</string>
+
+    <string-array name="pizza_types">
+        <item>Margherita</item>
+        <item>Capricciosa</item>
+        <item>Quattro Formaggi</item>
+        <item>Vegetariana</item>
+    </string-array>
+</resources>
