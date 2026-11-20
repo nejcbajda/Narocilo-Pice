@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Naročilo pice</string>
-
     <string name="title_main">Naročilo pice</string>
     <string name="label_pizza">Vrsta pice</string>
     <string name="label_size">Velikost</string>
